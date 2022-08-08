@@ -1,1 +1,2 @@
-﻿Console.WriteLine("5 Hello, World!");
+﻿// Комментарий для понимания
+Console.WriteLine("Hello World!");
